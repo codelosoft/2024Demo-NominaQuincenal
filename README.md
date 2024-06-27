@@ -31,7 +31,7 @@ Archivos
 MANUAL DE USUARIO_SYSRH CODELOSOFT en Excel VBA.pdf   
 Algunas pantallas.docx
 SYSRHCODELOSOFT_PrimerosPasos.docx
-SYSRH-CODELOSOFT -INICIAL - QUINCENAL-20242024_SOLOAPLICACION.xlsm  ("Esta es la aplicacion")
+NOMINAQUINCENAL2024_SYSRH-CODELOSOFT.xlsm  ("Esta es la aplicacion")
 SYSRH-CODELOSOFT-Empleados-CargaInicial Ejemplo.xlsx   Es el ejemplo con datos en caso de desear cargar un archivo de plantilla con el registro de empleados.
 Muy útil en caso que quiera subir el registro de sus empleados y estos sean muchos.
 SYSRH-CODELOSOFT-Empleados-CargaInicial.xlsx . Es el registro vacio. Este archivo es el que debe utilizar en caso de querer cargar los empleados desde la plantilla
